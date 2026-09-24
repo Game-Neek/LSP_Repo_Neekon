@@ -1,0 +1,3 @@
+For assignment two I made a simple script that would read through the provided Excel sheet and make the required edits and output a new sheet. For assignment three I kept the same functions but I decided to split them into five different classes keeping the ETLPipeline class as the main coordinator for the other classes. With them split like this changes can be made more easily than prior without affecting the entirety of the script. Below I have provided a transcript and link to gemini as I used it to split the code and prompted it to split it into the required classes.
+
+https://share.gemini.google/nLeoJCik75Uf
