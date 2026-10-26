@@ -9,7 +9,7 @@ import java.util.List;
  * Responsible for adding books, locating them, and coordinating the borrowing
  * and returning processes while enforcing a library-wide borrowing limit.
  * 
- * @author [Your Name Here]
+ * @author Malik John
  */
 public class Library {
     private List<Book> books;
