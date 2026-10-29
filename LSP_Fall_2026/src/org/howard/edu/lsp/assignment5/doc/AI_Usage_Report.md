@@ -1,0 +1,1 @@
+Gemnini conversation: https://share.gemini.google/FM6fRI71UL40
